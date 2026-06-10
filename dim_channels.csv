@@ -1,0 +1,11 @@
+ChannelKey,ChannelName,ChannelType,Platform
+1,Google Search,Paid Search,Google
+2,Google Shopping,Paid Shopping,Google
+3,Meta Facebook,Paid Social,Meta
+4,Meta Instagram,Paid Social,Meta
+5,TikTok Ads,Paid Social,TikTok
+6,Email Marketing,Owned,Klaviyo
+7,Organic Search,Organic,Google
+8,Influencer,Paid Influencer,Instagram
+9,Affiliate,Affiliate,ShareASale
+10,Direct,Direct,Direct

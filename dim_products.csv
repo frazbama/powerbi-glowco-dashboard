@@ -1,0 +1,32 @@
+ProductKey,ProductName,Category,UnitCost,UnitPrice,IsHeroProduct,LaunchYear,WeightGrams,IsSubscriptionEligible
+1,Vitamin C Serum,Skincare,22.23,56.33,0,2023,121,1
+2,Hyaluronic Acid Moisturizer,Skincare,23.78,68.94,0,2022,352,1
+3,Retinol Night Cream,Skincare,18.75,47.56,1,2022,337,1
+4,SPF 50 Sunscreen,Skincare,15.18,43.78,0,2023,279,1
+5,Niacinamide Toner,Skincare,21.43,63.72,1,2023,407,1
+6,Peptide Eye Cream,Skincare,18.76,50.19,1,2023,102,1
+7,Clay Detox Mask,Skincare,13.48,34.7,0,2023,463,1
+8,Rose Hip Face Oil,Skincare,12.7,35.27,1,2024,90,1
+9,Argan Oil Shampoo,Haircare,14.62,38.96,0,2023,345,0
+10,Keratin Conditioner,Haircare,10.31,23.56,0,2023,90,0
+11,Scalp Serum,Haircare,18.26,49.0,0,2024,375,0
+12,Hair Growth Gummies,Haircare,18.01,41.99,0,2023,409,0
+13,Biotin Hair Mask,Haircare,19.24,49.52,0,2023,323,0
+14,Dry Shampoo Spray,Haircare,16.75,39.06,0,2023,400,0
+15,Collagen Peptides Powder,Supplements,13.89,46.83,1,2022,462,1
+16,Ashwagandha Capsules,Supplements,13.79,42.08,1,2023,158,1
+17,Magnesium Glycinate,Supplements,17.87,55.99,0,2024,123,1
+18,Probiotic Blend,Supplements,13.18,40.04,0,2023,432,1
+19,Omega-3 Fish Oil,Supplements,17.02,58.8,0,2023,120,1
+20,Vitamin D3 + K2,Supplements,16.11,47.33,1,2022,128,1
+21,Beauty Greens Powder,Supplements,17.53,59.37,0,2022,247,1
+22,Shea Butter Body Lotion,Body Care,9.43,23.84,0,2022,398,0
+23,Coffee Scrub,Body Care,12.49,29.77,0,2023,443,0
+24,Arnica Muscle Balm,Body Care,11.77,24.97,0,2024,51,0
+25,Deodorant Cream,Body Care,14.58,36.05,0,2023,309,0
+26,Stretch Mark Oil,Body Care,14.21,35.1,0,2023,128,0
+27,Tinted Moisturizer SPF30,Makeup,14.98,36.31,0,2022,356,0
+28,Lip Plumping Gloss,Makeup,14.19,33.35,0,2023,172,0
+29,Brow Lamination Kit,Makeup,9.93,27.77,0,2022,424,0
+30,Clean Foundation,Makeup,16.78,39.87,0,2023,115,0
+31,Volumizing Mascara,Makeup,19.56,55.4,1,2024,158,0
